@@ -1,7 +1,7 @@
-package com.example.tasktracker.controller;
+package com.example.tracker.controller;
 
-import com.example.tasktracker.model.Task;
-import com.example.tasktracker.service.TaskService;
+import com.example.tracker.model.Task;
+import com.example.tracker.service.TaskService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

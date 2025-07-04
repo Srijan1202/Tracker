@@ -1,4 +1,4 @@
-package com.example.tasktracker.model;
+package com.example.tracker.model;
 
 import jakarta.persistence.*;
 import lombok.*;

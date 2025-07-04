@@ -1,7 +1,7 @@
-package com.example.tasktracker.service;
+package com.example.tracker.service;
 
-import com.example.tasktracker.model.Task;
-import com.example.tasktracker.repository.TaskRepository;
+import com.example.tracker.model.Task;
+import com.example.tracker.repository.TaskRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
